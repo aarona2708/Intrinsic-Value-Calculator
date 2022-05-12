@@ -1,3 +1,3 @@
 # Intrinsic-Value-Calculator
 
-Calculates a stock's or company's intrinsic or real value based on the proper data given by the user. 
+An investment analysis calculator programmed using Python 3. This calculator takes in a stock's or company's financial valuations inputted by the user to calculate the stock's intrinsic or real value.
