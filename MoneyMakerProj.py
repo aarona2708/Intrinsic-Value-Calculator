@@ -1,6 +1,5 @@
 # Author: Aaron Alejo
 # Date: Dec. 27, 2020
-# Assignment: Create an Intrinsic value calculator
 
 # Purpose: Helps user to figure out if a stock is selling at a good price
 # Calculates the approximate Intrinsic value of a company by collected data 
